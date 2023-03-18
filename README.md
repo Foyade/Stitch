@@ -47,6 +47,7 @@ I have chosen to duplicate the following layout from the **Twitch* app:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
+<img src='Stitch.gif' title='GIF' width='' alt='gif' />
 
 
 GIF created with **your chosen GIF tool**
