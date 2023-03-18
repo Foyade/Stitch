@@ -39,8 +39,6 @@ The following EXTRA features are implemented:
 - [ ] List anything else that you added to improve the app!
 
 ## Chosen Screenshot!
-[5D323002-AB7A-46BB-A2B6-163EC9353B73](https://user-images.githubusercontent.com/119370779/226082448-33d700f9-b5ac-4fe8-b7f4-5ea032791616.jpeg)
-
 
 I have chosen to duplicate the following layout from the **Twitch* app:
 
